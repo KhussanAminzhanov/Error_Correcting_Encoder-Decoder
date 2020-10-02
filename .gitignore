@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Error Correcting Encoder-Decoder/task/build/
+/Error Correcting Encoder-Decoder/task/out/
+/Error Correcting Encoder-Decoder/task/out/production/classes/
+/Problems/Generate random numbers/out/
+/Problems/Generate random numbers/out/production/classes/
